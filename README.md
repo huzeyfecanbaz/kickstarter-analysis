@@ -11,11 +11,11 @@ The analysis and challenges explain the graphs created in this project and go ov
 In this project, work was done on behalf of the theater for Loise, and the created graphics were added and explained.
 ### Analysis of Outcomes Based on Launch Date
 Analysis of Outcomes Based on Launch Date, monthly campaigns for theater were analyzed and trends were recorded with a graph.
-![Theatre Outcomes Vs Launch](../Desktop/My%20Analysis/Challenges/Module%201%20Challenge/resources/Theatre_Outcomes_vs_Launch.png)
+![Theatre Outcomes Vs Launch](https://github.com/huzeyfecanbaz/kickstarter-analysis/blob/4a5f4d4d4e68805dc23894f45fb10e2d642fd513/resources/Theatre_Outcomes_vs_Launch.png)
 As can be seen from the chart, successful campaigns were carried out in May and a decrease is observed towards the end of the year. On the other hand, it reached the highest point in unsuccessful campaigns in May. Based on this graphic, it is seen that it is more appropriate to carry out the campaign in May.
 ### Analysis of Outcomes Based on Goals
 Analysis of Outcomes Based on Goals displays the percentiles of campaigns that have successfully reached, failed to reach, or canceled the determined goals.
-![Outcomes Vs Goals](../Desktop/My%20Analysis/Challenges/Module%201%20Challenge/resources/Outcomes_vs_Goals.png)
+![Outcomes Vs Goals](https://github.com/huzeyfecanbaz/kickstarter-analysis/blob/4a5f4d4d4e68805dc23894f45fb10e2d642fd513/resources/Outcomes_vs_Goals.png)
 As can be seen in this chart, successful and unsuccessful campaigns are inversely related to each other. The campaigns were unsuccessful in projects with high targets, and the percentage of success was higher for low targets. It can be seen that the campaign, which will be made based on this graphic, by determining the low target amount will bring more success.
 ### Challenges and Difficulties Encountered
 In this module challenge, the implementation of some functions and the extraction of the right product were among the things that challenged me. I often had the opportunity to learn by doing and applying research on the internet. It was a bit boring at first, but then when I started to understand the logic, I started to enjoy it and when the homework was finished, I went through what I did again and checked it.
